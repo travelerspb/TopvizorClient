@@ -1,0 +1,47 @@
+﻿Запрос из списка запросов проекта
+
+{"id":"13901488",
+"phrase_id":"163954",
+"project_id":"172099",
+"group_id":"70046",
+"ord":"0",
+"target":"",
+"tag":"0",
+"phrase":"u0432u043au043bu0430u0434u044b u0432 u0431u0430u043du043a",
+"target_status":"",
+"frequency1":"--",
+"frequency2":"--",
+"frequency3":"--",
+"price1":"--",
+"price2":"--",
+"price3":"--"}
+
+
+Статистика по фразам:
+
+{"total":"5",
+"phrases":[
+	{"id":"13901488",
+	"group_id":"70046",
+	"phrase":"u0432u043au043bu0430u0434u044b u0432 u0431u0430u043du043a",
+	"phrase_id":"163954",
+	"target_status":"",
+	"tag":"0",
+	"frequency1":"88726",
+	"frequency2":"--",
+	"frequency3":"65",
+	"price1":"1179",
+	"price2":"450",
+	"price3":"108",
+	"dates":[
+		{"id":"93958182",
+		"status":"1",
+		"page":"http://www.RostBank.ru/services/individual/deposit/",
+		"position":"1",
+		"visitors":"",
+		"searcher":"0",
+		"searcher_domen":"",
+		"region":"213",
+		"region_lang":"ru",
+		"project_id":"172099"},
+
